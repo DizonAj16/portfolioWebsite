@@ -155,17 +155,6 @@
     text-decoration: none;
     color: black;
 }
-#preloader{
-    background: #000 url(/images/loadingGif.gif) no-repeat center center;
-    background-size: 15%;
-    height: 100vh;
-    width: 100%;
-    position: fixed;
-    z-index: 101;
-
-}
-
-
 @media(max-width: 1200px){
     .about-intro{
         display: flex;
