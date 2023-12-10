@@ -84,53 +84,53 @@
     line-height: 1.5em;
 }
 .projects-content-1 .projects-indi-content:nth-child(1){
-    background-image: url(/images/projects/buildings.jpg);
+    background-image: url('images/projects/buildings.jpg');
     background-size: cover;
     display: block;
 
 }
 
 .projects-content-1 .projects-indi-content:nth-child(2){
-    background-image: url(/images/projects/elearning.jpg);
+    background-image: url('images/projects/elearning.jpg');
     background-size: cover;
     display: block;
 
 }
 
 .projects-content-1 .projects-indi-content:nth-child(3){
-    background-image: url(/images/projects/payment.jpg);
+    background-image: url('images/projects/payment.jpg');
     background-size: cover;
     display: block;
 }
 
 .projects-content-1 .projects-indi-content:nth-child(4){
-    background-image: url(/images/projects/smartcity.jpg);
+    background-image: url('images/projects/smartcity.jpg');
     background-size: cover;
     display: block;
 }
 
 .projects-content-2 .projects-indi-content:nth-child(1){
-    background-image: url(/images/projects/predictive.jpg);
+    background-image: url('images/projects/predictive.jpg');
     background-size: cover;
     background-position: 20%;
     display: block;
 }
 
 .projects-content-2 .projects-indi-content:nth-child(2){
-    background-image: url(/images/projects/fitness.jpg);
+    background-image: url('images/projects/fitness.jpg');
     background-size: cover;
     background-position: 40%;
     display: block;
 }
 
 .projects-content-2 .projects-indi-content:nth-child(3){
-    background-image: url(/images/projects/energy.jpg);
+    background-image: url('images/projects/energy.jpg');
     background-size: cover;
     display: block;
 }
 
 .projects-content-2 .projects-indi-content:nth-child(4){
-    background-image: url(/images/projects/sales.jpg);
+    background-image: url('images/projects/sales.jpg');
     background-size: cover;
     display: block;
 }
